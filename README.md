@@ -1,5 +1,3 @@
-# Learn-How-to-Clean-and-Prepare-a-raw-data-for-ML
-
 # Data Cleaning and Preparation for Machine Learning
 
 ## Overview
@@ -137,12 +135,4 @@ The cleaned dataset is more consistent, complete, and suitable for machine learn
 * Data validation framework
 * Integration with machine learning workflows
 
-## Author
 
-**Shaik Pardi**
-
-GitHub: https://github.com/Shaik-pardi-11
-
-## License
-
-This project is intended for educational and learning purposes.
